@@ -1,4 +1,4 @@
-package.json {
+{
   "name": "csc-backend",
   "version": "1.0.0",
   "main": "server.js",
@@ -6,3 +6,4 @@ package.json {
     "start": "node server.js"
   }
 }
+  
